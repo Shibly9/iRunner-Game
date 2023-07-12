@@ -1,0 +1,1 @@
+This is a simple Obstacle Avoiding Game. play and have fun. i have also added music, dont forget to check it out.
